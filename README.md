@@ -8,4 +8,8 @@ O aplicativo de aplicação do teste BACMA é produto de uma pesquisa realizada 
 
 ## Tecnologias utilizadas
 
-## Arquitetura do projeto 
+O projeto foi produzido em ______, utilizando _______ como banco de dados
+
+## Arquitetura do projeto
+
+O projeto será produzido seguindo a arquitetura de software MVI (MODEL-VIEW-INTENT), é possível ler sobre arquiteturas de software no [artigo](artigos/Architectural_Patterns_in_Android_Development_Comp.pdf)
